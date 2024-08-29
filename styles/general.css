@@ -1,0 +1,11 @@
+.body{
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    min-width: none;
+    padding-top: 80px;
+    padding-left: 96px;
+    padding-right: 24px;
+    background-color: rgb(246, 245, 245);
+    font-family: roboto, arial;
+}
